@@ -3,7 +3,7 @@
 Welcome to the source code for my personal portfolio website.
 
 🌐 **View my website:**  
-https://glaserm6.github.io/MackenzieGlaser.github.io/
+https://glaserm6.github.io/Personal-Website/
 
 This website showcases my academic background, research experience, technical skills, and interests as a Computer Science student at Northern Kentucky University.
 
@@ -36,4 +36,4 @@ The website uses a purple and lilac visual theme with subtle animations, glass-s
 This repository contains the files used to build and publish my personal GitHub Pages portfolio.
 
 **Website:**  
-https://glaserm6.github.io/MackenzieGlaser.github.io/
+https://glaserm6.github.io/Personal-Website/
