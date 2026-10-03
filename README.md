@@ -1,4 +1,4 @@
-# Mackenzie Glaser — Personal Portfolio
+# Mackenzie Glaser — Personal Website
 
 Welcome to the source code for my personal portfolio website.
 
